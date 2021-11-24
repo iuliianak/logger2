@@ -25,6 +25,7 @@ foreach($arrSite as $site){
         $logger->$key($message,['level'=>$key,'url'=>$site,'filename'=>$filename]);
     } else{
     $logger->emergency($message,['level'=>'emergency','url'=>$site,'filename'=>$filename]);
+
     }
 
 }
