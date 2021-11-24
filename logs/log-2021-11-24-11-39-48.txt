@@ -1,0 +1,28 @@
+2021-11-24, 11:39 - url: https://nvc.moscow/en/ - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: http://www.rics.yar.ru/links.php - код ответа HTTP: 404<br>
+2021-11-24, 11:39 - url: http://kcenter42.ru/ - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: https://med-pomosh.com/?p=941 - код ответа HTTP: error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure<br>
+2021-11-24, 11:39 - url: https://uk.wikipedia.org/wiki/Метоклопрамід - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: https://health.mail.ru/drug/adtsetris/ - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: http://doctorpiter.ru/articles/1110/ - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: https://apteka-ot-sklada.ru/catalog/Lineks-kaps-N-16_5748173/ - код ответа HTTP: error:141A318A:SSL routines:tls_process_ske_dhe:dh key too small<br>
+2021-11-24, 11:39 - url: https://edulap.ru/ - код ответа HTTP: Could not resolve host: edulap.ru<br>
+2021-11-24, 11:39 - url: https://2ch.hk/ne/res/143484.html - код ответа HTTP: 401<br>
+2021-11-24, 11:39 - url: https://gorod55.ru/survey/23-05-2019/dozhivut-li-vashi-sustavy-do-starosti - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: https://scisne.net/a-333 - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: https://newsnn.ru/survey/23-05-2019/dozhivut-li-vashi-sustavy-do-starosti - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: https://officinas.ucoz.ru/ - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: http://med.rnx.ru/press/105548.html - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: https://www.apteka-ifk.ru/art/50024032/ - код ответа HTTP: 404<br>
+2021-11-24, 11:39 - url: http://all-vita.ru/ - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: https://psychiatr.ru/news/180 - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: http://m-guide.ru/ciflutrin-instrukciya-po-primeneniyu.html - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: http://kdfarma.ru/component/option,com_virtuemart/Itemid,140/category_id,92/flypage,flypage.tpl/lang,ru/page,shop.product_details/product_id,15519/vmcchk,1/ - код ответа HTTP: Could not resolve host: kdfarma.ru<br>
+2021-11-24, 11:39 - url: http://www.skineko.ru/publ/psoriaz/poleznye_ssylki/polezno_pochitat/34-1-0-52 - код ответа HTTP: 200<br>
+2021-11-24, 11:39 - url: http://odnadezhda.ru/id-3165.html - код ответа HTTP: 200<br>
+2021-11-24, 11:40 - url: https://aptekanalenina8.ru/Products/index/932_Septolete_total_tabl_drassas_3_mg1_mg_x16 - код ответа HTTP: 200<br>
+2021-11-24, 11:40 - url: http://odnadezhda.ru/id-7962.html - код ответа HTTP: 200<br>
+2021-11-24, 11:40 - url: http://www.skineko.ru/publ/psoriaz/lechenie_steroidy/belogent_belogent_krem/21-1-0-164 - код ответа HTTP: 200<br>
+2021-11-24, 11:40 - url: http://www.worldmedicine.ge/index.php?lang=3&level1=4&event=product&a1=9&id=82 - код ответа HTTP: 404<br>
+2021-11-24, 11:40 - url: http://tm.ru.net/wiki/Никотиновая_кислота - код ответа HTTP: Failed to connect to tm.ru.net port 80: Connection refused<br>
+2021-11-24, 11:40 - url: http://kolobok30.ru/fileid-377.html - код ответа HTTP: 200<br>
